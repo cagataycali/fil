@@ -1,7 +1,7 @@
 ### Fil
 Live coding in your browser with your favourite language.
 
-<http://fatiherikli.github.io/fil/>
+<https://otomat-hackathon.github.io/fil/>
 
 ![fil](http://i.imgur.com/ATdVU2O.png)
 
